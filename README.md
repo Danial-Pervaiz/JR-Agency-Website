@@ -51,7 +51,7 @@ JR-agency website is created with Bootstrap and HTML5. This website is created w
 </ul>
 
 <img src="http://danielpervaiz.com/github/images/Jr-1.png"/>
-<img src="http://danielpervaiz.com/github/images/jr-2.png"/>
+<img src="http://danielpervaiz.com/github/images/jrTwo.png"/>
 <img src="http://danielpervaiz.com/github/images/jr-3.png"/>
 <img src="http://danielpervaiz.com/github/images/jr-4.png"/>
 <img src="http://danielpervaiz.com/github/images/jr-5.png"/>
